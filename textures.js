@@ -16,7 +16,7 @@ Cut.addTexture({
   imageRatio : PPU,
   ratio : 1 / PPU,
   cutouts : [
-    { name : "prerendered", x : 0, y : 0,  width : 350, height : 450 }
+    { name : "prerendered", x : 0, y : 0,  width : 320, height : 416 }
   ]
 });
 
